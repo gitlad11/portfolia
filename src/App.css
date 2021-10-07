@@ -1,0 +1,33 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.App {
+  text-align: center;
+  background: url('./Images/workplace.jpg') no-repeat;
+  min-height: 900px;
+  width: 100%;
+  transition: all 0.9s ease;
+   background-size: cover;
+}
+.App:hover{
+   
+}
+.shadow{
+  min-height: 900px;
+  width: 100%;
+  transition: all 0.9s ease;
+  background: rgba(0, 0, 0, 0.5);
+}
+.shadow:hover{
+  background: rgba(0, 0, 0, 0.7);
+
+}
+.navBtn{
+  transition: all 0.5s ease;
+}
+
+.navBtn:hover{
+  border-color: #fc2626;
+}
