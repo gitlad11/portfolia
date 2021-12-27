@@ -97,7 +97,7 @@ function Header(props) {
 
          	<Grid item xs={12} >
          		<Typography style={{ color : "#5e5e5e", marginTop : "10px" }} variant="p" component="div">
-            		<FaPhoneSquareAlt/> number: <span style={{ fontSize : "14px", color : "#333" }}>+77058671152</span>  
+            		<FaPhoneSquareAlt/> number: <span style={{ fontSize : "14px", color : "#333" }}>+77006783925</span>  
           		</Typography>
           		<Divider/>
          	</Grid>

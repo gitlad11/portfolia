@@ -20,7 +20,7 @@ import Python from '../Images/python.png';
 import PyApp from '../Images/pythtytenhjder.png';
 import Divider from '@mui/material/Divider';
 import FlutterCode from '../Images/2021-10-06_10-59-36.png';
-
+import FlutterApp6 from '../Images/Fltter_art1.jpeg'
 
 function Content(props){
 	const lang = props.lang;
@@ -102,7 +102,7 @@ function Content(props){
 					</Grid>
 
 					<Grid item xs={4}>
-						<img src={FlutterApp3} style={{ maxHeight : "320px", boxShadow: "0 0 13px rgba(0,0,0,0.9)" }} />
+						<img src={FlutterApp6} style={{ maxHeight : "320px", boxShadow: "0 0 13px rgba(0,0,0,0.9)" }} />
 					</Grid>
 
 					<Grid item xs={6}>
